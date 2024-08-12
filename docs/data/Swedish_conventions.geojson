@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Swedish conventions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Närcon Winter\n", "description": null }, "geometry": { "type": "Point", "coordinates": [ 15.6107936, 58.4161803 ] } },
+{ "type": "Feature", "properties": { "Name": "confusion", "description": "https:\/\/www.confusion.nu\/" }, "geometry": { "type": "Point", "coordinates": [ 11.9324326, 57.6964652 ] } },
+{ "type": "Feature", "properties": { "Name": "Narcon Sommer\n", "description": "https:\/\/en.narcon.se\/" }, "geometry": { "type": "Point", "coordinates": [ 15.5760072, 58.3978364 ] } }
+]
+}

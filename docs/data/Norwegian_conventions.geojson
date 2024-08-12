@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Norwegian conventions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Torucon", "description": "https:\/\/www.torucon.no\/" }, "geometry": { "type": "Point", "coordinates": [ 10.4018922, 63.4399761 ] } },
+{ "type": "Feature", "properties": { "Name": "tatzucon", "description": "https:\/\/tatzucon.com\/" }, "geometry": { "type": "Point", "coordinates": [ 5.311718, 60.391983 ] } },
+{ "type": "Feature", "properties": { "Name": "banzaicon", "description": "https:\/\/www.banzaicon.no\/" }, "geometry": { "type": "Point", "coordinates": [ 12.5426073, 56.075222 ] } },
+{ "type": "Feature", "properties": { "Name": "mizucon", "description": "https:\/\/www.mizucon.no\/" }, "geometry": { "type": "Point", "coordinates": [ 10.7154868, 59.9224966 ] } }
+]
+}
